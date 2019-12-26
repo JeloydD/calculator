@@ -1,4 +1,4 @@
-# Calculator written in Java using netbeans IDE
+# Calculator written in Java using Netbeans IDE
 
 DESCRIPTION
 
