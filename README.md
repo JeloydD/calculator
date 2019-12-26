@@ -1,7 +1,7 @@
-# calculator
+# calculator written in Java
 
 ========================
-BUILD OUTPUT DESCRIPTION
+DESCRIPTION
 ========================
 
 When you build an Java application project that has a main class, the IDE
