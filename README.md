@@ -1,8 +1,6 @@
-# calculator written in Java
+# Calculator written in Java using netbeans IDE
 
-========================
 DESCRIPTION
-========================
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
